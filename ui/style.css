@@ -2,7 +2,6 @@ body {
     font-family: sans-serif;
     background-color: lightgrey;
     margin-top: 75px;
-    
 }
 
 .center {
@@ -28,8 +27,9 @@ body {
     
 }
 .h1 {
-    background-color: blue;
-    padding: 20px;
+     text-align: center;
 }
-
+.p1 {
+    text-align: center;
+}
 
