@@ -13,7 +13,7 @@ var canvas = document.getElementById('myCanvas');
       context.lineTo(450, 50);
       context.stroke();
 
-app.get('/', function (req, res) {
+app.get('/index', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'index.html'));
 });
 app.get('/hash', function (req,res) {
