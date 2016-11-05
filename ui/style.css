@@ -26,19 +26,3 @@ body {
     left: 500px;
     
 }
-*{
-margin: 0;
-padding: 0;
-}
-html {
-background-color: #E9EAED;
-height: 100%;
-}
-body {
-color: #333333;
-font-family: 'Helvetica Neue',Helvetica,Arial,'lucida grande',tahoma,verdana,arial,sans-serif;
-}
-/* other elements */
-#nav_v2 {
-display: none;
-}
